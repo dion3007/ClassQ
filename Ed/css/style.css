@@ -26,7 +26,6 @@ header {
     background-color: #666666;
     font-family:Arial, Helvetica, sans-serif;
     text-align: center;
-    font-size: ;
 }
 
 h3 {
@@ -49,79 +48,49 @@ h3 {
        
  }
 
- form {
-     margin-top: ;
-     margin-bottom: ;
-     margin-left: ;
-     margin-right: ;
- }
-
  /*inputan*/
 
 .inputan {
      padding-left: 0;
-     background-color:;
      margin-top:0px;
      margin-bottom: 0px;
      margin-left: 10px;
-     margin-right: ;
 }
 
 #name1{
     border-radius: 25px;
     padding: 8px 30px;
-     margin-top: ;
-     margin-bottom: ;
      margin-left: 10px;
-     margin-right: ;
  }
 #name2{
      border-radius: 25px;
      padding: 8px 30px;
-     margin-top: ;
-     margin-bottom: ;
      margin-left: 10px;
-     margin-right: ;
  }
 #date{
      border-radius: 25px;
      padding: 8px 30px;
-     margin-top: ;
-     margin-bottom: ;
      margin-left: 10px;
-     margin-right: ;
  }
 #email{
      border-radius: 25px;
      padding: 8px 30px;
-     margin-top: ;
-     margin-bottom: ;
      margin-left: 10px;
-     margin-right: ;
  }
 #pass1{
      border-radius: 25px;
      padding: 8px 30px;
-     margin-top: ;
-     margin-bottom: ;
      margin-left: 10px;
-     margin-right: ;
  }
  #pass2{
      border-radius: 25px;
      padding: 8px 30px; 
-     margin-top: ;
-     margin-bottom: ;
      margin-left: 10px;
-     margin-right: ;
  }
   #phone{
      border-radius: 25px;
      padding: 8px 30px;  
-     margin-top: ;
-     margin-bottom: ;
      margin-left: 10px;
-     margin-right: ;
  }
 
 
@@ -130,64 +99,47 @@ h3 {
 #logonama1 {
 margin-top: 0;
 margin-bottom: -3%;
-margin-right: ;
-margin-left: 
 }
 
 #logonama2 {
 margin-top: 0;
 margin-bottom: -3%;
-margin-right: ;
-margin-left: 
 }
 
 #logobirthday {
 margin-top: 0;
 margin-bottom: -3%;
-margin-right: ;
-margin-left: 
 }
 
 #logoemail {
 margin-top: 0;
 margin-bottom: -3%;
-margin-right: ;
-margin-left: 
 }
 
 #logopass1 {
 margin-top: 0;
 margin-bottom: -3%;
-margin-right: ;
-margin-left: 
 }
 
 #logopass2 {
 margin-top: 0;
 margin-bottom: -3%;
-margin-right: ;
-margin-left: 
 }
 
 #logohp {
 margin-top: 0;
 margin-bottom: -3%;
-margin-right: ;
-margin-left: 
 }
 
 #boy {
 margin-top: 0;
 margin-bottom: -3%;
 margin-right: 5%;
-margin-left: 
 }
 
 #girl {
 margin-top: 0;
 margin-bottom: -3%;
-margin-right: ;
-margin-left: ;
 }
 
 h1 {
