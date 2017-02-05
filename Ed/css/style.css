@@ -50,37 +50,44 @@ h3 {
 #name1{
     border-radius: 25px;
     padding: 8px 30px;
-     margin-left: 10px;
+    margin-left: 10px;
+    border: none;
  }
 #name2{
      border-radius: 25px;
      padding: 8px 30px;
      margin-left: 10px;
+     border: none;
  }
 #date{
      border-radius: 25px;
      padding: 8px 30px;
      margin-left: 10px;
+     border: none;
  }
 #email{
      border-radius: 25px;
      padding: 8px 30px;
      margin-left: 10px;
+     border: none;
  }
 #pass1{
      border-radius: 25px;
      padding: 8px 30px;
      margin-left: 10px;
+     border: none;
  }
  #pass2{
      border-radius: 25px;
      padding: 8px 30px; 
      margin-left: 10px;
+     border: none;
  }
   #phone{
      border-radius: 25px;
      padding: 8px 30px;  
      margin-left: 10px;
+     border: none;
  }
 
 

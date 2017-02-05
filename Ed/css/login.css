@@ -1,0 +1,81 @@
+body {
+    background-color: #80bfff;
+    background-repeat: no-repeat;
+    background-size: 120%;
+    text-align: center;
+    margin: 20px 0 200px;
+    padding:0px;
+}
+ header {
+    opacity: 0.5;
+    border-radius: 40px;
+    padding: 1px 1px;
+    margin: 0px 300px 5%;
+    background-color: #666666;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+ }
+
+ h3 {
+     color: #ffffff;
+ }
+
+/*inputan*/
+
+ #id {
+     border-radius: 25px;
+     padding: 8px 30px;
+     margin-left: 10px;
+     border: none;
+ }
+
+ #pass {
+     border-radius: 25px;
+     padding: 8px 30px;
+     margin-left: 10px;
+     margin-bottom: ;
+     border: none;
+ }
+
+ /*logo dalam inputan*/
+
+ #logoid {
+    margin-top: 0;
+    margin-bottom: -15px;
+ }
+
+ #logopass {
+    margin-top: 0;
+    margin-bottom: -16px;
+ }
+
+ #warning1 {
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: 0.6em;
+     color: #666666;
+ }
+
+#login {
+background-color: #80bfff;
+border-radius: 25px;
+border: none;
+color: white;
+padding: 6px 21px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+margin: 4px 2px;
+cursor: pointer;
+}
+
+
+ .button #daftar {
+    font-size: 60%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #666666;
+    text-decoration: none;
+    padding: 2px 7px;
+    border-radius: 25px;
+    margin: ;
+ }
