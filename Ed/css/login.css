@@ -33,7 +33,6 @@ body {
      border-radius: 25px;
      padding: 8px 30px;
      margin-left: 10px;
-     margin-bottom: ;
      border: none;
  }
 
@@ -56,17 +55,17 @@ body {
  }
 
 #login {
-background-color: #80bfff;
-border-radius: 25px;
-border: none;
-color: white;
-padding: 6px 21px;
-text-align: center;
-text-decoration: none;
-display: inline-block;
-font-size: 16px;
-margin: 4px 2px;
-cursor: pointer;
+    background-color: #80bfff;
+    border-radius: 25px;
+    border: none;
+    color: white;
+    padding: 6px 21px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
 }
 
 
@@ -77,5 +76,4 @@ cursor: pointer;
     text-decoration: none;
     padding: 2px 7px;
     border-radius: 25px;
-    margin: ;
  }
