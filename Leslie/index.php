@@ -70,6 +70,13 @@
                 <div class="button">
                     <button id="submit" type="submit" name="submit">SUBMIT</button>
                 </div>
+                <div id="warning1">
+                    <h2> udah punya akun? login di sini! </h2>
+                </div>
+
+                <div class="button">
+                    <a id="login" href="login.php"> Login di sini </a>
+                </div>
             </form>
         </div>
     </body>
