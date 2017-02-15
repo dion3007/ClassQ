@@ -4,6 +4,7 @@
     <head>
         <title> Login dulu lah </title>
         <link rel="stylesheet" href="./css/login.css">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
     </head>
 <body background="./img/background.jpg">
     <header>
