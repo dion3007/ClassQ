@@ -51,45 +51,43 @@ h3 {
     border-radius: 25px;
     padding: 8px 30px;
     margin-left: 10px;
-    border: none;
- }
-#name2{
-     border-radius: 25px;
-     padding: 8px 30px;
-     margin-left: 10px;
-     border: none;
- }
-#date{
-     border-radius: 25px;
-     padding: 8px 30px;
-     margin-left: 10px;
-     border: none;
- }
-#email{
-     border-radius: 25px;
-     padding: 8px 30px;
-     margin-left: 10px;
-     border: none;
- }
-#pass1{
-     border-radius: 25px;
-     padding: 8px 30px;
-     margin-left: 10px;
-     border: none;
- }
- #pass2{
-     border-radius: 25px;
-     padding: 8px 30px; 
-     margin-left: 10px;
-     border: none;
- }
-  #phone{
-     border-radius: 25px;
-     padding: 8px 30px;  
-     margin-left: 10px;
-     border: none;
- }
+}
 
+#name2 {
+    border-radius: 25px;
+    padding: 8px 30px;
+    margin-left: 10px;
+}
+
+#date {
+    border-radius: 25px;
+    padding: 8px 30px;
+    margin-left: 10px;
+}
+
+#email {
+    border-radius: 25px;
+    padding: 8px 30px;
+    margin-left: 10px;
+}
+
+#pass1 {
+    border-radius: 25px;
+    padding: 8px 30px;
+    margin-left: 10px;
+}
+
+#pass2 {
+    border-radius: 25px;
+    padding: 8px 30px;
+    margin-left: 10px;
+}
+
+#phone {
+    border-radius: 25px;
+    padding: 8px 30px;
+    margin-left: 10px;
+}
 
 /* logo didalam form */
 
@@ -146,17 +144,31 @@ h1 {
     color: #666666;
 }
 
-button{
-background-color: #80bfff;
-border-radius: 25px;
-border: none;
-color: white;
-padding: 15px 32px;
-text-align: center;
-text-decoration: none;
-display: inline-block;
-font-size: 16px;
-margin: 4px 2px;
-cursor: pointer; 
+button {
+    background-color: #80bfff;
+    border-radius: 25px;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
 
+#warning1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.6em;
+    color: #666666;
+}
+
+.button #login {
+   font-size: 60%;
+   font-family: Arial, Helvetica, sans-serif;
+   color: #666666;
+   text-decoration: none;
+   padding: 2px 7px;
+   border-radius: 25px;
 }
